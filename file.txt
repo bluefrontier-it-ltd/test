@@ -1,4 +1,0 @@
-local text
-this is a line of text
-will this be overwritten
-updated file
